@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "backend",
   "version": "1.0.0",
   "description": "for learning",
@@ -9,14 +10,30 @@
   },
   "author": "nick",
   "license": "ISC",
+=======
+  "name": "fullstack-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+>>>>>>> d1de949b516f587f8858db631e128a957f729698
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "mongoose": "^8.19.2",
+<<<<<<< HEAD
     "nodemailer": "^7.0.10"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
+=======
+    "react-router-dom": "^7.9.6"
+>>>>>>> d1de949b516f587f8858db631e128a957f729698
   }
 }
